@@ -1,5 +1,5 @@
 # Electronic-Shelf-Label-Management-System
-The ESL management system from this repository incorporates several electronic shelf labels and the ESL management software.
+The ESL management system from this repository incorporates the electronic shelf labels and the ESL management software.
 
 An electronic shelf label is a device that displays relevant product information, they're usually attached to the front edge of retail shelving. A typical ESL consists of a display and a simple microcontroller that controls the display.
 
