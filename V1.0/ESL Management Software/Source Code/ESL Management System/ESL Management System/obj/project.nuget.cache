@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSBzkb/DXG9gg2RRk5Yl6gV5mWogo8NLsFLk4ypl1diIMhVziHIfsaoSWejhgWKLEajBYFsKuafKIiG3BD2f9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ok\\Documents\\Tutorial\\Electronic Shelf Label Management System\\ESL Management Software\\ESL Management System\\ESL Management System\\ESL Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ok\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\ok\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\ok\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

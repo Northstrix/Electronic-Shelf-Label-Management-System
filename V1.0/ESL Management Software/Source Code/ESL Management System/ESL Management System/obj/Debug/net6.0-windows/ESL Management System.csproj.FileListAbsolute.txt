@@ -1,0 +1,48 @@
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.exe
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.deps.json
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.runtimeconfig.json
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.pdb
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL_Management_System.Form1.resources
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.GenerateResource.cache
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.AssemblyInfo.cs
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\refint\ESL Management System.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.pdb
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.genruntimeconfig.cache
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ref\ESL Management System.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ok\source\repos\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.CopyComplete
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.exe
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.deps.json
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.runtimeconfig.json
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\ESL Management System.pdb
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.AssemblyReference.cache
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL_Management_System.Form1.resources
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.GenerateResource.cache
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.AssemblyInfoInputs.cache
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.AssemblyInfo.cs
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.csproj.CopyComplete
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\refint\ESL Management System.dll
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.pdb
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ESL Management System.genruntimeconfig.cache
+C:\Users\ok\Documents\Tutorial\Electronic Shelf Label Management System\ESL Management Software\ESL Management System\ESL Management System\obj\Debug\net6.0-windows\ref\ESL Management System.dll
