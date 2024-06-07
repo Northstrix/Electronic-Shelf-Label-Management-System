@@ -16,6 +16,7 @@ Tutorial for V2 is available at https://www.instructables.com/DIY-Electronic-She
 </br>
 
 ![image text](https://github.com/Northstrix/Electronic-Shelf-Label-Management-System/blob/main/V2.0/Pictures/IMG_0378.jpg)
+![image text](https://github.com/Northstrix/Electronic-Shelf-Label-Management-System/blob/main/V2.0/Pictures/IMG_20240607_112111.jpg)
 ![image text](https://github.com/Northstrix/Electronic-Shelf-Label-Management-System/blob/main/V2.0/Pictures/AES%20in%20CBC.png)
 ![image text](https://github.com/Northstrix/Electronic-Shelf-Label-Management-System/blob/main/V2.0/Pictures/Circuit%20Diagram%20for%20ESL%20with%20ILI9341.png)
 ![image text](https://github.com/Northstrix/Electronic-Shelf-Label-Management-System/blob/main/V2.0/Pictures/Circuit%20Diagram%20for%20ESL%20with%20ST7789.png)
